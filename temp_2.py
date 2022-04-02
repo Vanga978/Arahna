@@ -9,4 +9,4 @@ def get_unique_loto(num):
     return res
 
 print(get_unique_loto(3))
-#get_unique_loto(3)
+get_unique_loto(3)
