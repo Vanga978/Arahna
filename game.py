@@ -3,7 +3,7 @@ number = np.random.randint(1,101)
 count = 0
 while True:
     count = count +1
-    predict_number = int(input('Угадать число : '))
+    predict_number = int(input("Угадать число : "))
     
     if predict_number > number:
         print("Число должно быть меньше!")
